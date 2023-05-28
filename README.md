@@ -1,2 +1,2 @@
 # aaltoee-datasets
-Datasets for AaltoEE courses
+Datasets for AaltoEE course exercises.
